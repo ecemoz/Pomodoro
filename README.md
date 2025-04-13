@@ -29,7 +29,6 @@ Pomodoro tekniğine dayalı bu basit zamanlayıcı uygulaması, odaklanma süren
 .
 ├── tomato.png
 ├── pomodoro.py
-├── screenshot.png
 ```
 
 > Not: `tomato.png` dosyası zamanlayıcı görselliği için kullanılmaktadır. çalışabilmesi için proje dizininde olması gerekir.
